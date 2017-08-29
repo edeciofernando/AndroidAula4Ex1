@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Controle de Filmes</string>
+    <string name="titulo">Título:</string>
+    <string name="genero">Gênero:</string>
+    <string name="nota">Nota:</string>
+    <string name="salvar">Salvar</string>
+    <string name="listar">Listar</string>
+    <string name="filtrar">Filtrar por Gênero</string>
+</resources>
